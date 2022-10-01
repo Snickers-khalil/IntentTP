@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentApplication</string>
+
+    <string name="showme">Show Me</string>
+    <string name="addcal">Add To Calander</string>
+    <string name="txt">Text</string>
+    <string name="txxt">You typed</string>
+    <string name="typed">You Typed</string>
+
+</resources>
